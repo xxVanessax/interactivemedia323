@@ -1,0 +1,57 @@
+
+
+body { 
+background-color: #E4F3FE;
+font-family:"Helvetica";
+font-style: normal;
+line-height:1.6;
+
+}
+
+.title {
+	text-align: justify;
+	text-decoration: underline;
+	font-size: 80px;
+	font-weight: bold;
+    }
+
+#step1 {
+	text-align: left;
+	}
+
+#step2 {
+	text-align: left;
+	}
+
+#step3 {
+	text-align: left;
+	}
+
+#step4 {
+	text-align: left;
+	}
+
+#step5 {
+	text-align: left;
+	}
+
+#step6 {
+	text-align: left;
+	}
+
+div {
+    width: 900px;
+    padding: 50px;
+    border: 5px solid gray;
+    margin: 0;
+}
+
+h2 {
+	font-style;
+
+
+}
+
+.number {
+	font-style: bold;
+}
