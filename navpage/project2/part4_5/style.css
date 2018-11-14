@@ -1,0 +1,26 @@
+body {
+}
+.Poem {
+ font-size: 350px;
+ font-family: sans-serif;
+ padding-top: 0;
+ letter-spacing: 15px;
+}
+.move {
+ font-size: 100px;
+ font-family: Garamond;
+ letter-spacing: 75px;
+}
+.gray {
+ text-align: center;
+ font-size: 75px;
+ letter-spacing: 50px;
+ background-color: gray;
+}
+.black {
+ text-align: center;
+ font-size: 75px;
+ letter-spacing: 50px;
+ color: white;
+ background-color: black;
+}

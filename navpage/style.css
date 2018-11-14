@@ -1,0 +1,51 @@
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.poem {
+    font-size: 600px;
+}
+
+body {
+    background-image: linear-gradient(to right, white , gray, black);
+    font-family: sans-serif;
+}
+
+#levelone {
+    background-color: white;
+    margin-left: 50px;
+}
+
+#leveltwo {
+    background-color: white;
+    margin-left: 115px;
+}
+
+#levelthree {
+    background-color: white;
+    margin-left: 105px;
+}
+
+#levelfour {
+    background-color: white;
+    margin-left: 150px;
+}
+
+#levelfive {
+    background-color: white;
+}

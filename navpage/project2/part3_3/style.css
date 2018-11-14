@@ -1,0 +1,28 @@
+
+body { 
+
+}
+
+p.border1 {
+	border-style: solid;
+  width: 320px;
+    padding: 40px;
+    border: 2px solid;
+    margin: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center; 
+}
+
+p {
+	
+}
+
+h1.header {
+text-align: center;
+}
+
+h2.header2 {
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+body {
+background-color: black;
+font-family: Garamond;
+}
+div {
+ border-left: 6px linear-gradient(black, gray, black);
+    background-color: transparent;
+    color: white;
+}
+ul {
+    color: white;
+}
+li {
+    color: white;
+}
+.poem {
+ font-size: 350px;
+ font-family: sans-serif;
+ padding-top: 0;
+    background-color:transparent;
+}
+
